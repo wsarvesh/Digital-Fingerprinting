@@ -1,0 +1,2 @@
+nBytes,nPackets,activeTime,sleepTime,ports,dns_req,ntp_req,dns_interval,ntp_interval,avg_pkt,mean_rate,Label
+5450023,15542,477,423,406,398,8,13.09375,139.2,350.66420023163045,0.3424455080387016,29
